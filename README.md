@@ -1,6 +1,6 @@
 # Terminal-Scripts-Launcher
 
-![1000844958](https://github.com/user-attachments/assets/0ad471ad-8c5e-40d2-92c1-feff505fc791)
+![1000016622](https://github.com/user-attachments/assets/8a055ebf-da3f-4d30-9ffa-1e015d3549c4)
 
 
 1. Finds all scripts in a folder.
